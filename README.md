@@ -7,7 +7,8 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run api 启动服务
+npm run serve 运行项目
 ```
 
 ### Compiles and minifies for production
